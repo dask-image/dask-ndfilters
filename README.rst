@@ -1,3 +1,6 @@
+This is **unmaintained**. Please see `dask/dask-image`_ instead.
+
+
 ===============================
 dask-ndfilters
 ===============================
@@ -47,4 +50,5 @@ This package was created with Cookiecutter_ and the `nanshe-org/nanshe-cookiecut
 
 .. _Cookiecutter: https://github.com/audreyr/cookiecutter
 .. _`nanshe-org/nanshe-cookiecutter`: https://github.com/nanshe-org/nanshe-cookiecutter
+.. _`dask/dask-image`: https://github.com/dask/dask-image
 
